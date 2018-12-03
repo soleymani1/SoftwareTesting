@@ -1,4 +1,5 @@
 # SoftwareTesting
+** these checklists are in Farsi.
 checklists for (Based on UML and RUP):
 Business Use Case Model,
 Business Use Case Specification,
